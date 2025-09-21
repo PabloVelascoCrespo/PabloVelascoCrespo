@@ -10,7 +10,7 @@ Passionate about building scalable, efficient, and fun game systems.
 - 🧩 **Specialties:** System Architecture, Gameplay Programming, Procedural Generation, CPU/GPU Optimization  
 - 📚 Always learning and experimenting with new tools, frameworks, and techniques.  
 - 🤝 Strong believer in clean code, maintainable architecture, and collaborative development.  
-- 🫧 Currently working in Dorothy's Job.
+- 🫧 Currently working in [Dorothy's Job](https://store.steampowered.com/app/3926730/Dorothys_Job/)
 
 ---
 
