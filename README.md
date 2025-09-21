@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Pablo Velasco Crespo  
 
+<img src="assets/banner.png" alt="Banner" width="100%"/>
+
 🎮 **Game Programmer | Software Engineer | Unreal Engine & Unity Developer**  
 Passionate about building scalable, efficient, and fun game systems.  
 
