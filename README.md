@@ -27,15 +27,15 @@ Passionate about building scalable, efficient, and fun game systems.
 
 ## 🧠 Skills
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
-[![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/ue-content/)
+[![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/ue-content/)</br>
 ![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
-![Godot](https://img.shields.io/badge/Godot_Engine-0242bd?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)</br>
-![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)</br>
+![Godot](https://img.shields.io/badge/Godot_Engine-0242bd?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)
+![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
-![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
+![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/Source_Control-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
-![Notion](https://img.shields.io/badge/Notion-8c8c8c?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)</br>
+![Notion](https://img.shields.io/badge/Notion-8c8c8c?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</br>
 <br>
 
