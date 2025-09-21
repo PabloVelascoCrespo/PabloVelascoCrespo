@@ -1,11 +1,44 @@
-<h1 align="center">Hi 👋, I'm Pablo Velasco Crespo</h1>
-<h3 align="center">Game Programmer with expertise in C++ and Unreal Engine!</h3>
+# 👋 Hi, I'm Pablo Velasco Crespo  
 
-- 🔭 I’m currently working on [Dorothy's Job](https://store.steampowered.com/app/3926730/Dorothys_Job/)
+🎮 **Game Programmer | Software Engineer | Unreal Engine & Unity Developer**  
+Passionate about building scalable, efficient, and fun game systems.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About Me  
+- 💻 **Tech Stack:** C++, C#, Lua, Unreal Engine 5, Unity  
+- 🧩 **Specialties:** System Architecture, Gameplay Programming, Procedural Generation, CPU/GPU Optimization  
+- 📚 Always learning and experimenting with new tools, frameworks, and techniques.  
+- 🤝 Strong believer in clean code, maintainable architecture, and collaborative development.  
+- 🫧 Currently working in Dorothy's Job.
+
+---
+
+## 🚀 Featured Projects  
+- 🏗 **Procedural Level Generator** – Custom graph-based system for Unreal Engine 5  
+- 🎯 **Gameplay Systems** – Weapons, interactables, game flow, and world management  
+- 🔄 **Engine Migration** – Ported a full game from GameMaker to Unity (Akura Games)  
+
+> 📌 *You can explore my repositories below to see code samples, prototypes, and personal projects.*  
+
+---
+
+## 📚 Education  
+🎓 **Master’s Degree in Game Programming** – U-TAD (2024 - 2025)  
+🎓 **Bachelor’s in Software Engineering** – UCLM (2018 - 2022)  
+
+---
+
+## 🏆 Achievements  
+- 📝 **Publication:** [Conversion of the Spanish WordNet databases into a Prolog-readable format](https://www.researchgate.net/publication/383279002_Conversion_of_the_Spanish_WordNet_databases_into_a_Prolog-readable_format)  
+- 🧠 Research project on NLP and semantic analysis (UCLM, 2022-2024)  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-velasco-crespo/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloVelascoCrespo)  
+
+---
+
+✨ *"Clean code is not just about making things work – it's about making things last."*  
