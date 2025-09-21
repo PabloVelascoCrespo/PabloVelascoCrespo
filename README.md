@@ -25,6 +25,21 @@ Passionate about building scalable, efficient, and fun game systems.
 
 ---
 
+## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills
+[![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/ue-content/)
+![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+![Godot](https://img.shields.io/badge/Godot_Engine-0242bd?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)</br>
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
+![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)</br>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+![MySQL](https://img.shields.io/badge/MySQL-0066A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
+![Git](https://img.shields.io/badge/Source_Control-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![Notion](https://img.shields.io/badge/Notion-8c8c8c?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)</br>
+<br>
+
+---
+
 ## 📚 Education  
 🎓 **Master’s Degree in Game Programming** – U-TAD (2024 - 2025)  
 🎓 **Bachelor’s in Software Engineering** – UCLM (2018 - 2022)  
